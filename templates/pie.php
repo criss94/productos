@@ -1,0 +1,1 @@
+<p>&copy; Copyright 2015 - <?php echo date("Y"); ?> Todos los derechos reservados para Cristian </p>
